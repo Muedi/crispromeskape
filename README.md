@@ -1,6 +1,7 @@
 # CRISPRomESKAPE
 
-### Scripts for the paper "An outstanding bacterial membranome requires CRISPR-Cas systems to avoid the intervention of phages"
+### Scripts for the paper "Analysis of bacterial pangenomes reduces CRISPR dark matter and reveals strong association between membranome and CRISPR-Cas systems
+"
 
 DOI (BioRxiv): https://doi.org/10.1101/2022.04.26.489349
 
