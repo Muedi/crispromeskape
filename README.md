@@ -1,7 +1,6 @@
 # CRISPRomESKAPE
 
-### Scripts for the paper "Analysis of bacterial pangenomes reduces CRISPR dark matter and reveals strong association between membranome and CRISPR-Cas systems
-"
+### Scripts for the paper "Analysis of bacterial pangenomes reduces CRISPR dark matter and reveals strong association between membranome and CRISPR-Cas systems"
 published in Science Advances: https://doi.org/10.1126/sciadv.add8911
 
 In this project we have searched for genes associated with CRISPR-Cas systems from bacteria of the ESKAPE group using Random Forest and we have been able to reduce the percentage of CRISPR black matter, as well as to propose a triad 'Membrane Proteins - Phages - CRISPR' by which bacterial genomes would acquire CRISPR-Cas systems when they have certain useful membrane proteins that can act as viral receptors.
